@@ -1,3 +1,13 @@
+# Project idea 
+Imagine you have some free time and don't know what to do with it. In this case, use an app to generate ideas. You can generate a city to travel to, an activity in the city, and the time of the activity 
+
+# Interface 
+![image](https://github.com/user-attachments/assets/9e1ea222-0be5-44f5-85d6-cace4f0d6f20)
+
+#![image](https://github.com/user-attachments/assets/141d1551-e930-43cd-b9bd-acc694976928)
+
+## Note 
+The first page load takes time. It will be fixed in next release. 
 # `www`
 
 Welcome to your new `www` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
