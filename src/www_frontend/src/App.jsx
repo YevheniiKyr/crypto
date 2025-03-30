@@ -69,9 +69,7 @@ export default function GeneratorApp() {
         const newActivity = getRandomItem(activities);
         const newPlace = getRandomItem(places);
         const newTime = getRandomItem(times);
-        console.log(newActivity);
-        console.log(newPlace);
-        console.log(newTime);
+
         setActivity(newActivity);
         setPlace(newPlace);
         setTime(newTime);
